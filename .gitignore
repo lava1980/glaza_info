@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+__pycache__/
+*.log
+glaza_data.py
+images/
+old/
+tmp*.*
+venv/
